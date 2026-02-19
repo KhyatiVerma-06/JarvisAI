@@ -12,7 +12,3 @@ It listens to voice commands, responds using AI, and performs basic automation t
 ## 🛠 Tech Stack
 Python, speech_recognition, pyttsx3, OpenAI API
 
-## ⚙️ Setup
-```bash
-pip install speechrecognition openai pyttsx3 numpy
-python main.py
