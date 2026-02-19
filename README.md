@@ -10,5 +10,5 @@ It listens to voice commands, responds using AI, and performs basic automation t
 - Basic task automation
 
 ## 🛠 Tech Stack
-Python, speech_recognition, pyttsx3, OpenAI API
+Python, speech_recognition, Web Browser, OpenAI API
 
